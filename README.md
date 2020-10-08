@@ -28,3 +28,5 @@
     - combine the setting of 3 sections in content
     - combine the setting image of 3 sections in content
     - combine the h2 setting for sections-content
+    - Move the content-section up to improve sematic logic.
+    - add some note comments to each segment of codes
