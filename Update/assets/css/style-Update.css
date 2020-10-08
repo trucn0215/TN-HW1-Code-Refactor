@@ -1,29 +1,31 @@
+/* Set box size to all elements on webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* add background color for the whole webpage*/
 body {
     background-color: #d9dcd6;
 }
-
+/* Set the font, text color, background color and spacing for the header top page */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* set the element in header h1 in same row with font-side = 48px */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Set only the letter SEO in this color */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Set ONLY the navigations/searching list elements with the font, font-size, box size and stay on the RIGHT on the page */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +34,29 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+/* Set the font, text color, background color and spacing for the header top page */
+/* header nav ul {
     list-style-type: none;
-}
+}*/
 
+/* Set the font, text color, background color and spacing for the header top page */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 p {
     font-size: 16px;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 #hero {
     height: 800px;
     width: 100%;
@@ -59,22 +66,26 @@ p {
     background-position: center;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Set the font, text color, background color and spacing for the header top page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
