@@ -27,5 +27,4 @@
     - combine benefit-lead, -brand, -cost h3 together
     - combine the setting of 3 sections in content
     - combine the setting image of 3 sections in content
-    
-
+    - combine the h2 setting for sections-content
