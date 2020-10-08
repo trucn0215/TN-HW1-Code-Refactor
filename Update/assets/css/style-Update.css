@@ -66,16 +66,19 @@ p {
     background-position: center;
 }
 
+.float-left,
+.float-right {
+    margin-right: 25px;
+}
+
 /* Set the font, text color, background color and spacing for the header top page */
 .float-left {
     float: left;
-    margin-right: 25px;
 }
 
 /* Set the font, text color, background color and spacing for the header top page */
 .float-right {
     float: right;
-    margin-left: 25px;
 }
 
 /* Set the font, text color, background color and spacing for the header top page */
