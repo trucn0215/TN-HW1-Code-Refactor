@@ -84,7 +84,8 @@ p {
     margin-left: 20px;
 }
 
-.content-section{
+/*set main section with font, color, placement, background, etc*/
+.content-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,9 +93,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/*Set images of main section to the max height = 200px*/
 .content-section img {
     max-height: 200px;
 }
+
+/*Set margin and font size for headers of main sections */
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -128,24 +133,28 @@ p {
     text-align: center;
 }
 
+/*set img of benefit-lead block*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*set img of benefit-brand block*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*set img of benefit-cost block*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*set footer with font style, alignment and placement*/
 footer {
     padding: 30px;
     clear: both;
@@ -153,6 +162,7 @@ footer {
     text-align: center;
 }
 
+/*set footer header with font size*/
 footer h2 {
     font-size: 20px;
 }
