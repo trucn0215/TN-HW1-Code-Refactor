@@ -13,7 +13,9 @@
     - Each "div" of paragraph, replace "div" with "section" in Benefits
     - Add "alt" to img on Benefit section
     - Remove </img> on the "Benefit-cost" section.
-    - Remove the id of "online-reputation-management" and "social-media-marketing" since they are unused.
+    - add id to search-engine-optimization to active the search when click on the header and it bring to that section.
+    - rename 3 class in content (main element) to get same class name to be able to combine same code in css
+
 ## In CSS:
     - Remove the "." in front of header to change it to elements instead of class.
     - change all "div" to "nav" that relate to "header"
@@ -23,6 +25,7 @@
     - combine float-left and float-right which have the same margin
     - combine benefit-lead, -brand and -cost together since they are same mergin and color
     - combine benefit-lead, -brand, -cost h3 together
-    -
+    - combine the setting of 3 sections in content
+    - combine the setting image of 3 sections in content
     
 
