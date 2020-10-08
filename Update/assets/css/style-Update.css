@@ -66,22 +66,23 @@ p {
     background-position: center;
 }
 
+/*set the margin of images in the content to 25px */
 .float-left,
 .float-right {
     margin-right: 25px;
 }
 
-/* Set the font, text color, background color and spacing for the header top page */
+/* Set image to the left of the box */
 .float-left {
     float: left;
 }
 
-/* Set the font, text color, background color and spacing for the header top page */
+/* Set image to the right of the box */
 .float-right {
     float: right;
 }
 
-/* Set the font, text color, background color and spacing for the header top page */
+/* Set the content block in same row with benefits block with 75% width of the page */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,11 +101,13 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -113,7 +116,7 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+}*/
 
 .benefit-lead h3 {
     margin-bottom: 10px;
