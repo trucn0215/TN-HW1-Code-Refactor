@@ -22,8 +22,10 @@
 * Change h2 to h4 in footer.
 
 ### Example screenshot image of the changes
-    Original HTML: ![](https://github.com/trucn0215/TN-HW1-Code-Refactor/blob/main/Original/assets/images/HTML-Original.png)
-    Update HTML: ![](https://github.com/trucn0215/TN-HW1-Code-Refactor/blob/main/Original/assets/images/CSS-Original.png)
+    Original HTML: 
+
+    Update HTML: 
+
 
 ## In CSS:
 * Remove the "." in front of header to change it to elements instead of class.
