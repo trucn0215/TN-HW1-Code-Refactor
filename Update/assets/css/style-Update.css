@@ -126,28 +126,16 @@ p {
 }
 
 /*Set margin and text alignment for each Benefit titles */
-.benefit-lead,
-.benefit-brand,
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*set img of benefit-lead block*/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*set img of benefit-brand block*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*set img of benefit-cost block*/
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -163,6 +151,6 @@ footer {
 }
 
 /*set footer header with font size*/
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
