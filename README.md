@@ -22,10 +22,8 @@
 * Change h2 to h4 in footer.
 
 ### Example screenshot image of the changes
-    Original HTML: 
-
-    Update HTML: 
-
+![Original](Original/assets/images/HTML-Original.png)
+![Update](Original/assets/images/CSS-Original.png)
 
 ## In CSS:
 * Remove the "." in front of header to change it to elements instead of class.
@@ -44,5 +42,5 @@
 * Change h2 to h4 in footer.
 
 ### Example screenshot image of the changes
-    Original CSS:
-    Update CSS:
+![Original](Update/assets/images/HTML-update.png)
+![Update](Update/assets/images/CSS-update.png)
