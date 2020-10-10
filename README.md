@@ -4,7 +4,10 @@
     Refator the codebase that follows accessibility standards 
     SO THAT our own site is optimized for search engines
 # LINK
-    
+[Repo-Link](https://github.com/trucn0215/TN-HW1-Code-Refactor)
+
+[Deploy-Link](https://trucn0215.github.io/TN-HW1-Code-Refactor/)
+
 # Changes Made
 ## In HTML:
 * Update directory link to CSS with updated name.
