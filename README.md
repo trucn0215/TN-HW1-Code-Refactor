@@ -25,7 +25,9 @@
 * Change h2 to h4 in footer.
 
 ### Example screenshot image of the changes
+###### ORIGINAL
 ![Original](Original/assets/images/HTML-Original.png)
+###### UPDATE
 ![Update](Original/assets/images/CSS-Original.png)
 
 ## In CSS:
@@ -45,5 +47,7 @@
 * Change h2 to h4 in footer.
 
 ### Example screenshot image of the changes
+###### ORIGINAL
 ![Original](Update/assets/images/HTML-update.png)
+###### UPDATE
 ![Update](Update/assets/images/CSS-update.png)
